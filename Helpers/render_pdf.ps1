@@ -1,7 +1,8 @@
 # This may be expanded
 $paths = @(
     "..\FIE";
-    "..\Relics"
+    "..\Relics";
+    "..\Sexual";
 )
 
 # Use Word to render these files
@@ -15,6 +16,7 @@ foreach ($path in $paths) {
     
     # This basically as if you were actually in Word
     Get-ChildItem -Path $path -Filter *.doc? | ForEach-Object {
+        Write-Host "Rendering: $($_.BaseName).docx"
         $document = $word_app.Documents.Open($_.FullName)
         $pdf_filename = "$($_.DirectoryName)\PDF\$($_.BaseName).pdf"
         $document.SaveAs([ref] $pdf_filename, [ref] 17)
