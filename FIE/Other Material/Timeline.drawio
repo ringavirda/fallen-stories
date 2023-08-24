@@ -1,1 +1,960 @@
-<mxfile host="Electron" modified="2021-09-17T19:24:31.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/15.1.3 Chrome/89.0.4389.128 Electron/12.1.0 Safari/537.36" etag="zkPh_xU19zaxsYHfC1Ss" version="15.1.3" type="device"><diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">5V3JcuM4Ev0aH7uDAFcctbnnMB1RMXXoqSPLYlnqkkUHRZft+fqhSABMLBRBcQGlvsgiDBAklpeZLxOpB3f18vFHFr/u/ky3yeEBO9uPB3f9gDFCHir+nEs+WYnjVSXP2X5Ly+qCr/v/JbTQoaVv+21yEirmaXrI969i4VN6PCZPeVVG28ZZlr6L1X6kB7HX1/g5ERqdC74+xYdEqfbXfpvv+GuA6v9K9s872nXk0398j59+Pmfp25H2d0yPSfWfl5jdhlY97eJt+g6K3M2Du8rSNK++vXysksN5XNmIVe0eG/7LHzlLjrlJg+W30/uv3Y/PP/5+Jsv0r5/ht/f//IbobX7Fhzc6FvRp8082OMm2GCt6mWb5Ln1Oj/FhU5cuywFIzv04xVVd599p+loUoqLw7yTPP+nEx295WhTt8pcD/W/V57mjxpejRaf0LXtKLrwRXXh5nD0n+aU3r+egWNdJ+pLk2WfRMEsOcb7/JT5ITNfXM69XD3TxhY51h3H31GEvxo6sz59L56EYlChk34vPZfm5KVqU1VblZVRWc2g1ZdYOh2L3nGfnfbfPk6+vcTls78UOFsc+Pr1WW+rH/uM8h3QyfiVZnnxcng519GiDiD4PxQM3oNfv9eZiVXZwWzkjDTcK722ZM+RsX+eB1XWuWZj3Oc4usTnO7DFlQPEARvjlZ1m+XIMSn8LK+V9S5RX4vu4LNAPgiudLwBKqwIKwBlmC0ZCF3B2yBKbIEtlc8f4/Zpx9q5oKe0wZWR4F7aNGlqUCGZGAMmTBGhafbvkvdwbIEsoqi3VkwXenmleAYbDisd0VHw274heIVSiao/KzlLQE0RvaXPeFpT67he/e28LHpkpk9aa2Fj5uUCL7L3xYGW4C3iSyuwkCZ3abAA88FxhUrhoS0JCXlPNidS6i+c2Fhq1Rhui4XZyJyOKq5ADd5TY+7Ur8QeIYncu/xHmeZMeyBDtuUXrKs/QnJx9xB/xRRxIMlK8ZJ1ZmDCq0hy/pvuiYTxR2pInyHGkCKlykzSAzKd0JEdxypwo4lTuVs8lfvAdLEc5bwLTLDb+n3NBPTOBeN8PFTog/QbXXc4WTeT+YONI0V3ccdtLJvCe9XavwDVeH19dQv2pSI2RhUtmYyGIzUvSODRCkESDcuYZSfF8ogpT/a1N+VjdciupM8f2RSl3aCwJieaPI4bXSsPiyBg+A9fZD/fBaBapeqmgSwR1I3BzWkP7Tym1XY1rNaYe3w/ogG1fZmS65DtaH2qQumve8tCOvMZFh1SmAG4iMDcAryMYtFbOMuwYgNjoAmqB7Ut1t2S59+f52mgR+XAP4mdTn6Lq3vsqJ4Sp37bIWGg9MTT5swPL1dEIXrvKFohNAjYGv9aJkpUh0V3DRL6H3fiVsGNty2pWUbWTdvnZnbn617hQXm+4Uq8549piyPIBr9ZH5ZYASPPDu4HeG4qRyVAdsj6xYpxHYTa7gh1Z3cb3HoQwLWpgxofIa3CTS7Wv2PPRFsPIiUbONUanpFR13e/q96/gCbkQa2AgnhQ0NaXxbsGHqAe5N7/Qa52DmZtRw4xw07ICe9lYoSVx/WnbTbfDgQwz3AVZ7DOseQeFagC8BBiVtR+JE+HfVlnDEACMmO2wDnR+I06UDumn1I72Ge2OkFu90BRaXrwg6wirD0DVocm40/db6gquMgGfQaiHqCJJSA6Uxb2t5kcqRcPZXqaehXm9bbniuodzwPJvy2QvmPc7tw+eOInaDwC7N6WniWM6qPwSSAHx6LYbKQjK3OG+HRDOGYxWn5TjOmZ0vEEIKHEXIRLrn2YAmj7NCSmUZWOc7/LuL7PNMT930jmW9zhUpLYHAm8AV6ZtEjdzpLPcF9H7ysOFwlapxQijlSiokuyA1BCsHinbLXbYwEEs6PiGBJQY6K0R03lC0vAT7KxQflVtPGwbtVXgpb77WGWL8AZaKwaCtD2PPINvGX1OSTlrBZS4oWkSDKEeGEBSSW9QnhoKCjCYoNJb7jUOIqefUHySiqaugIFLMCpokEEnvpr1C3dOAA0SPFShnuxU7yhYWd6uAUTBYlHE77cc6uqqfEBYi8Mrcg+aIbSuPg5aNhz1KYF49vGXlNJTMeGQ9aCa4u+h7NsTt9C+2qbawx9Sbi9AMg2StmekoaCK8SblTNSI6AhoQJAaBU05mAi+7AStVgj+GoQHpiE0sawdyWLrv2N6pvp5fIF1cpsJBjUjR79YqQJqG9Aw+ATJUhp46AZMG+PgzD1uYSMdqVaKm5t2Cu0v24JtGegdW40t8ffB150gsKUBEe2QSBohAGxW6sFzRA6b2ZVukzC5i2r/1MxHGup5v50yERDGwc4dNJ6MI8i/VH8cejW49cNU3JRkiuwp/Q3i25ObmdKPEI0Ln+ICU5EqE4E7xs03ZZrjJ3oXp1Kv9U4aUy/gcaDRO5GrwmRcOb53fOkAHpsppYDW7DHtM/dEJw9AXuDX6BM/ykBiT+Bn7gaJN4W7WtJrIynmj5GOf//fc/HfH8en1t/LaI/Ry/UFvX158gosvSbYvXj7JaNmAO9A4C0tvOkyv0yBnolPFyGF5SVlHgX9R21KfTGwwjroVYD3UhEBWwui+C/ZMJ2+bSOWR5mDPBVZ69EVcUt0ICs0IqbzaUcDq4yB+OQPR8fvpla92i5YZCedG9oXerQt+0yDs0GrwAE/5O9eBHp8DakRTy7ReQxg7xMbmYPbOSbjsEd1ITqyi06AmZbrDuwtYC0yVoNBqKrpw5i6GAcfZKhUTNFAxZthSH0yQjgkshciyhehLrXlqZybBCMiR6EnTAKjxtJ6Zh7a3rn+mR858/bPHvGSDiIQejB66tLCvJjG4gwfGNlwXmwmjk66gX8QTwIIiAWlPfnbZsu2CkERb/qajLSeNY9TlOJ3TNh5/dzbo1PhKV3lnKkTuiGVLaaRC5HQqUoNxqJBQT4UsIJo4gFzoHfBEtX/10L0UeyTTEyJ3Yop/VyU16AVgRIAuYgi9YuhknemAR4QjCq41HRUBnslX4NkH794Uhb8R5+9RHMCqO8c02ymBGpkU/CrFhkrSaQn4Kha5Zl0vw5JeVuxOM0QfzxEVquETs4L0ds3M9HCnZc1s5g6/8em8BgGFIrt0VNgQfdnpiCUDHwFtDAVY1wwyEmfPif8hPJNGkoU/gG04RXK6WWTdztXwD8q2HzzDNPNQot8dHEkeytCmi7LJ8zhNYmvFgApkYtU4sTWS/UiyPB459Ut061KaJaNvD+Xqm4LhOrtKlkKB1+JilhuwZDPjRvTp7ara59tVvfZEaeHoKFAWLSZwpOw7hoq4yu0EoFOtQSKZTOr5her+1fMQ0IsUYcztFiBZG8PYuB3V6cCubWnnYGmJmkq7cDQ6aOas7kRgo2FpLLtYycyNjXZxYZqhgFg5XoywpA+Ek8RzN+dD6EGxLOGP+4QNUT48qcKjAKD0+C28A7MkbjAxpkKuci3PXsSj5giUZsod8agl92DA8YXp09SEQrB52yFU0pSbba1YnRuRhXPmkDcZebLZ6BiycKNNM7n1kxqR8UkNq4n0yc0rLOP8kASSsxBOrbBEDXEbXWDJ1CENzZhOmSKlLJPwYI8HYBWeusesSSsLqKYB8ZW+1HP7VR0ptTVSzCcs3sQ2ACu/W2Lq2B5PzjZkZr06dvvydHLRjMX63BJFSr4YR3fQdXrRKSdPsH4mhFg5EzIgpJO+gYlNjv/wOkjvbAvJHbHfpRjVFiIaXn1O096qMTEIbBf5oVWNqSGg7NqfL11CqhIpTTzQUCvbzCI0u2WPVo0aaLaouajmYMLIv61q/VwLmXmE80RMkgYerzwlNxhSNvySIqTaxd8UHiXySnJWmzseuNbKtd9rlbK+2INFEFJHaU296/xRSZsH4pqUofBX3+BJfikwQTrVjFjqLu44McwpAGIZDGfcOjrKYVba8/7aMCuvOzwWl1ma5nDTFi+1+zPdJuca/wc=</diagram></mxfile>
+<mxfile host="Electron" modified="2023-08-04T12:41:41.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="7ns2yKY1aGGXT_daO_Og" version="21.6.5" type="device" pages="3">
+  <diagram name="Old Detailed" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
+    <mxGraphModel dx="1206" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-4" target="BYswvhfyGjg9BoWk7YwR-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-4" value="Начало Мира" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="80" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-10" target="BYswvhfyGjg9BoWk7YwR-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-10" target="BYswvhfyGjg9BoWk7YwR-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-10" value="Древнее времена" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-16" target="BYswvhfyGjg9BoWk7YwR-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-16" target="BYswvhfyGjg9BoWk7YwR-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-16" value="Правление Круга" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-18" target="BYswvhfyGjg9BoWk7YwR-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-18" value="Правление Сестёр" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-20" target="BYswvhfyGjg9BoWk7YwR-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-20" value="Правление Селестии" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1600" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-22" value="Правление Твайлайт" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-24" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2000" y="400" as="sourcePoint" />
+            <mxPoint x="1920" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="630" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-25" target="BYswvhfyGjg9BoWk7YwR-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-25" value="Исторические события основания эквестрии" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-28" target="BYswvhfyGjg9BoWk7YwR-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-28" value="Открытие зеркала" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="260" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-29" target="BYswvhfyGjg9BoWk7YwR-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-29" value="Создание кристального замка" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-32" target="BYswvhfyGjg9BoWk7YwR-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-32" value="Запуск кристального сердца, изгнаниедвижение виндиго из територии Эквестрии" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="80" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-36" target="BYswvhfyGjg9BoWk7YwR-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-36" target="BYswvhfyGjg9BoWk7YwR-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-36" value="Исход пони из забытых земель" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-39" value="Исторические события основания империй драконов, грифонов, кентавров" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-43" target="BYswvhfyGjg9BoWk7YwR-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-43" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-43" value="Рожждение Старсвирла, начало власти Столпов" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-44" target="BYswvhfyGjg9BoWk7YwR-50" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-44" target="BYswvhfyGjg9BoWk7YwR-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-44" value="Первая активация элементов гармонии заключённых в личных предметах Столпов" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="590" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-48" target="BYswvhfyGjg9BoWk7YwR-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="910" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-48" value="Старсвирл занимает место главы Круга, начало поиска альтернативы" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-50" target="BYswvhfyGjg9BoWk7YwR-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-50" value="Расхождение между Стиксом и остальными Столпами" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-53" value="Изгнание Сирен" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="740" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-55" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-55" target="BYswvhfyGjg9BoWk7YwR-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-55" value="Создание сестёр, их обучение" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-50" target="BYswvhfyGjg9BoWk7YwR-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="890" y="600" />
+              <mxPoint x="915" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-58" target="BYswvhfyGjg9BoWk7YwR-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-58" value="Концентрация элементов, создание древа гармониии" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="640" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-61" target="BYswvhfyGjg9BoWk7YwR-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-61" value="Основание кристальной империи" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.005;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BYswvhfyGjg9BoWk7YwR-18" target="BYswvhfyGjg9BoWk7YwR-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1041" y="465" />
+              <mxPoint x="1030" y="465" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-62" value="Заточение Столпов и Пони Теней в междумирье&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="970" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-66" target="BYswvhfyGjg9BoWk7YwR-73" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-66" value="Восход Сестёр" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1000" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-68" target="BYswvhfyGjg9BoWk7YwR-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-68" target="BYswvhfyGjg9BoWk7YwR-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-68" value="Восход короля Сомбры" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1090" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-70" target="BYswvhfyGjg9BoWk7YwR-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-70" value="Захват Сомброй империи, деактивация Кристального Сердца" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="-40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-72" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1210" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1210" y="350" />
+              <mxPoint x="1350" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-72" value="Сражение между Сёстрами&amp;nbsp; и Сомброй, изгнание Кристальнйо Империи на тысячилетие, первое проявление Кошмарной луны" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="135" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-73" target="BYswvhfyGjg9BoWk7YwR-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-73" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-73" value="Начало войны между Эквестрией и Кристальной Империей" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1130" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-78" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=1.028;exitY=0.497;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BYswvhfyGjg9BoWk7YwR-62" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="680" as="sourcePoint" />
+            <mxPoint x="1170" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-82" target="BYswvhfyGjg9BoWk7YwR-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="645" />
+              <mxPoint x="1180" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-82" value="Появление Дискорда как реакции на набирающее силу древо Гармонии" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="610" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-84" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1240" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-84" target="BYswvhfyGjg9BoWk7YwR-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-84" value="Проявление безумия по всей Эквестрии" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-87" value="Пропажа идола, падение Грифнстоуна" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-88" target="BYswvhfyGjg9BoWk7YwR-89" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-88" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-88" value="Падение империи кентавров, конфликт между Тиреком и его братом" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1390" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-89" value="Заточение Тирека в Тартаре" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1370" y="400" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1370" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BYswvhfyGjg9BoWk7YwR-90" target="BYswvhfyGjg9BoWk7YwR-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-90" value="Правление последнего короля грифонов Гроувера" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="BYswvhfyGjg9BoWk7YwR-95" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BYswvhfyGjg9BoWk7YwR-95" value="Битва между Сёстрами и Дискордом, заточение последнего в камень, Древо гармонии отдало новые элементы Сёстрам" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1290" y="640" width="120" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WbG_dqlWPC2G2ZafiiMn" name="General Ru">
+    <mxGraphModel dx="1526" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-2" value="&lt;b&gt;Спящий мир&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="1400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-4" value="&lt;b&gt;?&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2360" y="680" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-3" value="&lt;b&gt;Новый мир&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="680" width="940" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-8" target="dsRuImD2XjOz9bk6uG-v-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-8" value="&lt;b&gt;Общая история&lt;/b&gt;&lt;br&gt;(События до рождения Твайлайт)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="45" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-1" value="&lt;b&gt;Старый мир&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="1050" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-9" target="dsRuImD2XjOz9bk6uG-v-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-9" value="Становление Твайлайт как принцессы" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="235" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-11" target="dsRuImD2XjOz9bk6uG-v-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-11" target="dsRuImD2XjOz9bk6uG-v-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-11" value="Разделение" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-13" value="&lt;b&gt;Первая Твайлайт&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-22" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-14" target="dsRuImD2XjOz9bk6uG-v-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-14" value="Встреча с второй Сансет и Временем" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-16" value="&lt;b&gt;Вторая Твайлайт&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-17" target="dsRuImD2XjOz9bk6uG-v-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-17" value="Война с восстанием Фолленстар" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-21" target="dsRuImD2XjOz9bk6uG-v-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-21" value="Попытка остановить объединившихся врагов (Тирек, Кризалис, Фоллен)" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-23" target="dsRuImD2XjOz9bk6uG-v-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-23" value="Жертва Времени" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-44" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-25" target="dsRuImD2XjOz9bk6uG-v-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-25" value="&lt;b&gt;Падение Эквестрии&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="640" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-42" target="dsRuImD2XjOz9bk6uG-v-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-42" target="dsRuImD2XjOz9bk6uG-v-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-42" value="&lt;b&gt;Последняя битва&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="750" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-48" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-45" target="dsRuImD2XjOz9bk6uG-v-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-45" value="Жертва Сансет" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="910" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-46" value="&lt;b&gt;Сон Твайлайт&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-49" value="Гибель принцесс" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="900" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-54" target="dsRuImD2XjOz9bk6uG-v-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-54" value="&lt;b&gt;Общая история&lt;/b&gt;&lt;br&gt;(События до рождения Фолленстар)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="40" y="560" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-55" target="dsRuImD2XjOz9bk6uG-v-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-55" value="Становление Фоллен как полуаликорна" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-57" target="dsRuImD2XjOz9bk6uG-v-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-57" value="Восстание Падших Звёзд" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-59" target="dsRuImD2XjOz9bk6uG-v-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-65" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-59" target="dsRuImD2XjOz9bk6uG-v-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-59" value="&lt;b&gt;Встреча с Мунлайт&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-63" target="dsRuImD2XjOz9bk6uG-v-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-63" value="Путешествие за пределы Эквестрии" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-66" value="&lt;b&gt;Фолленстар&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="180" y="640" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-69" value="&lt;b&gt;Мунлайт&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-71" target="dsRuImD2XjOz9bk6uG-v-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-71" value="&lt;b&gt;Битва Фоллен и Твайлайт&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-73" target="dsRuImD2XjOz9bk6uG-v-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-73" value="Стабилизация ситуации" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="797.14" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-77" target="dsRuImD2XjOz9bk6uG-v-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-77" target="dsRuImD2XjOz9bk6uG-v-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-77" value="&lt;b&gt;Вознесение Мунлайт&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="949.9999999999999" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-82" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-80" target="dsRuImD2XjOz9bk6uG-v-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-80" value="Битва за деревню Зебр" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="487.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-83" target="dsRuImD2XjOz9bk6uG-v-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-83" value="Встреча со Временем" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-85" target="dsRuImD2XjOz9bk6uG-v-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-85" value="&lt;b&gt;Прорыв ко Второй Твайлайт&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-100" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-90" target="dsRuImD2XjOz9bk6uG-v-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-90" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Эквестрия стоит!&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-101" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-95" target="dsRuImD2XjOz9bk6uG-v-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-95" value="&lt;b&gt;Пробуждение мира&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-109" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-98" target="dsRuImD2XjOz9bk6uG-v-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-98" value="&lt;b&gt;Основание доминиона Разрушения&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-103" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-99" target="dsRuImD2XjOz9bk6uG-v-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-104" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-99" target="dsRuImD2XjOz9bk6uG-v-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-99" value="&lt;b&gt;Коронация Мунлайт&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-102" value="&lt;b&gt;Исчезновение Фоллен и Второй Твалайт&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-106" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2050" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-105" value="&lt;b&gt;Принцесса Мунлайт&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-108" target="dsRuImD2XjOz9bk6uG-v-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-108" value="Войны Оборотней" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1870" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-113" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-110" target="dsRuImD2XjOz9bk6uG-v-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-110" value="&lt;b&gt;Новая Эквестрия&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="2040" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-116" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-112" target="dsRuImD2XjOz9bk6uG-v-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-112" value="Период мира и развития" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-118" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-115" target="dsRuImD2XjOz9bk6uG-v-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-115" value="&lt;b&gt;Возвращение Фолленстар&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-117" value="&lt;b&gt;Кактаклизм Лилит&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-123" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-120" target="dsRuImD2XjOz9bk6uG-v-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-120" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Часть 1 Огонь&lt;/b&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;align=right;" vertex="1" parent="1">
+          <mxGeometry x="150" y="740" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-126" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=5;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-122" target="dsRuImD2XjOz9bk6uG-v-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1373" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-122" value="&lt;b&gt;Конец&lt;/b&gt;" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="747.5" width="66" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-128" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-125" target="dsRuImD2XjOz9bk6uG-v-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="415" />
+              <mxPoint x="1120" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-125" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Часть 2&lt;br&gt;Время&lt;br&gt;&lt;/b&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=right;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-130" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=5;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-127" target="dsRuImD2XjOz9bk6uG-v-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-127" value="&lt;b&gt;Конец&lt;/b&gt;" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1406" y="335" width="66" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-132" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=5;" edge="1" parent="1" source="dsRuImD2XjOz9bk6uG-v-129" target="dsRuImD2XjOz9bk6uG-v-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-129" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Часть 3&lt;br&gt;Вечность&lt;br&gt;&lt;/b&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=right;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="300" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-131" value="Конец?" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="2534" y="395" width="66" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="dsRuImD2XjOz9bk6uG-v-133" value="&lt;b&gt;Начало и ход истории&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="20" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="General En" id="Z2JQ1oNPpSr3xbhwR9KM">
+    <mxGraphModel dx="2035" dy="1275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-0" />
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-1" parent="AxYPbf_bWD9C3SQQs9RX-0" />
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-2" value="&lt;b&gt;Sleeping world&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="40" y="680" width="1400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-3" value="&lt;b&gt;?&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="2360" y="680" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-4" value="&lt;b&gt;New World&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1430" y="680" width="940" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-6" target="AxYPbf_bWD9C3SQQs9RX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-6" value="&lt;b&gt;Common history&lt;/b&gt;&lt;br&gt;(Up to Twilight&#39;s birth)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="45" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-7" value="&lt;b&gt;Old world&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="40" y="320" width="1050" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-9" target="AxYPbf_bWD9C3SQQs9RX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-9" value="Twilight&#39;s becoming as a princess" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="200" y="235" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-12" target="AxYPbf_bWD9C3SQQs9RX-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-12" target="AxYPbf_bWD9C3SQQs9RX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-12" value="Separation" style="rhombus;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="360" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-14" value="&lt;b&gt;First Twilight&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="210" y="290" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-16" target="AxYPbf_bWD9C3SQQs9RX-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-16" value="Meeting with Second Sunset and Time" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="340" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-18" value="&lt;b&gt;Second Twilight&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="360" y="100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-20" target="AxYPbf_bWD9C3SQQs9RX-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-20" value="The war with Fallenstar&#39;s rebellion" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="480" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-22" target="AxYPbf_bWD9C3SQQs9RX-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-22" value="Attempts to stop teamed up enemies (Tirek, Chrisalis, Fallen)" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-24" target="AxYPbf_bWD9C3SQQs9RX-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-24" value="Sacrifice of Time" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="640" y="130" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-25" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-26" target="AxYPbf_bWD9C3SQQs9RX-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-26" value="&lt;b&gt;The fall of Equestria&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="640" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-29" target="AxYPbf_bWD9C3SQQs9RX-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-29" target="AxYPbf_bWD9C3SQQs9RX-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-29" value="&lt;b&gt;The last battle&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="750" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-31" target="AxYPbf_bWD9C3SQQs9RX-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-31" value="Sunset&#39;s sacrifice" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="910" y="140" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-32" value="&lt;b&gt;Twilight&#39;s dream&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;labelBackgroundColor=none;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1010" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-33" value="The death of the princesses" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="900" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-35" target="AxYPbf_bWD9C3SQQs9RX-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-35" value="&lt;b&gt;Common history&lt;/b&gt;&lt;br&gt;(Up to Starfall&#39;s birth)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="40" y="560" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-37" target="AxYPbf_bWD9C3SQQs9RX-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-37" value="Fallen&#39;s becoming as halfalicorn" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-39" target="AxYPbf_bWD9C3SQQs9RX-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-39" value="Fallen Stars&#39; Rebellion" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="520" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-42" target="AxYPbf_bWD9C3SQQs9RX-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-42" target="AxYPbf_bWD9C3SQQs9RX-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-42" value="&lt;b&gt;Meeting with Moonlight&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="400" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-44" target="AxYPbf_bWD9C3SQQs9RX-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-44" value="The journey beyond the bounds of Equestrina" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="380" y="490" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-46" value="&lt;b&gt;Fallenstar&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="180" y="640" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-48" value="&lt;b&gt;Moonlight&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="360" y="460" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-50" target="AxYPbf_bWD9C3SQQs9RX-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-50" value="&lt;b&gt;Fallen and Twilight&#39;s confrontation&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="680" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-52" target="AxYPbf_bWD9C3SQQs9RX-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-52" value="Stabilization of the situation" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="797.14" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-55" target="AxYPbf_bWD9C3SQQs9RX-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-55" target="AxYPbf_bWD9C3SQQs9RX-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-55" value="&lt;b&gt;Moonlight&#39;s ascention&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="949.9999999999999" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-57" target="AxYPbf_bWD9C3SQQs9RX-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-57" value="Fight for the Zebra village" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="700" y="487.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-59" target="AxYPbf_bWD9C3SQQs9RX-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-59" value="Meeting with Time" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1060" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-61" target="AxYPbf_bWD9C3SQQs9RX-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-61" value="&lt;b&gt;Breakthrough to Second Twilight&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1240" y="580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-63" target="AxYPbf_bWD9C3SQQs9RX-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-63" value="&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Equestria stands!&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1150" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-65" target="AxYPbf_bWD9C3SQQs9RX-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1540" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-65" value="&lt;b&gt;World&#39;s awakening&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1400" y="560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-67" target="AxYPbf_bWD9C3SQQs9RX-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-67" value="&lt;b&gt;Founding of the Dominion of Destruction&lt;/b&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1680" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-70" target="AxYPbf_bWD9C3SQQs9RX-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-70" target="AxYPbf_bWD9C3SQQs9RX-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-70" value="&lt;b&gt;The coronation of Moonlight&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;labelBackgroundColor=none;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1500" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-71" value="&lt;b&gt;Fallenstar and Second Twilight departure&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1590" y="590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-72" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2050" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-73" value="&lt;b&gt;Princess Moonlight&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1490" y="390" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-75" target="AxYPbf_bWD9C3SQQs9RX-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-75" value="Changeling wars" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1870" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-77" target="AxYPbf_bWD9C3SQQs9RX-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-77" value="&lt;b&gt;New Equestria&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="2040" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-78" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-79" target="AxYPbf_bWD9C3SQQs9RX-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-79" value="Period of peace and development" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="2160" y="500" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-80" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-81" target="AxYPbf_bWD9C3SQQs9RX-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-81" value="&lt;b&gt;Fallenstar&#39;s return&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="2320" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-82" value="&lt;b&gt;Lilith&#39;s Cataclism&amp;nbsp;&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="2440" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=5;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-84" target="AxYPbf_bWD9C3SQQs9RX-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-84" value="&lt;b&gt;Part 1&lt;br&gt;Fire&lt;br&gt;&lt;/b&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;align=right;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="150" y="740" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=5;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-86" target="AxYPbf_bWD9C3SQQs9RX-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1373" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-86" value="&lt;b&gt;End&lt;/b&gt;" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1340" y="747.5" width="66" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-88" target="AxYPbf_bWD9C3SQQs9RX-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="415" />
+              <mxPoint x="1120" y="362" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-88" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Part 2&lt;br&gt;Time&lt;br&gt;&lt;/b&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=right;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="60" y="380" width="75" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-89" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=5;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-90" target="AxYPbf_bWD9C3SQQs9RX-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-90" value="&lt;b&gt;End&lt;/b&gt;" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1406" y="335" width="66" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-91" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=5;" edge="1" parent="AxYPbf_bWD9C3SQQs9RX-1" source="AxYPbf_bWD9C3SQQs9RX-92" target="AxYPbf_bWD9C3SQQs9RX-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-92" value="&lt;b&gt;&amp;nbsp; &amp;nbsp;Part 3&lt;br&gt;Eternity&lt;br&gt;&lt;/b&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=right;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="1530" y="300" width="85" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-93" value="The End?" style="shape=tape;whiteSpace=wrap;html=1;rounded=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="2534" y="395" width="66" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="AxYPbf_bWD9C3SQQs9RX-94" value="&lt;b&gt;The beginning of the story&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="AxYPbf_bWD9C3SQQs9RX-1">
+          <mxGeometry x="20" y="735" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
