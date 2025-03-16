@@ -2,7 +2,5 @@
 **/.tmp.*
 # No porn for you
 Sexual/
-# Remove renders
-**/PDF/
 # Drawio loose files
 **/*.bkp
