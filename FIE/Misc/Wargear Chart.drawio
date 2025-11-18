@@ -1,0 +1,697 @@
+<mxfile host="Electron" modified="2023-11-26T19:07:29.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="LKpuZ-uZf3k33pxDpjUQ" version="22.1.2" type="device">
+  <diagram id="haF-Vt20uxTqzsdnE4zw" name="Page-1">
+    <mxGraphModel dx="2056" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-2" value="&lt;div&gt;&lt;span&gt;Создание Упавших Звёзд. Первые сторонники Фолленстар нуждались в преимуществе перед преследующими их службами Сестёр. Для банального выживания и выполнения поставленых задач при ограниченых количествах и ресурсах было разработано первое поколение брони. Эти доспехи были созданы Звездой индивидуально для каждой пони, потому я вляются уникальными. Не приспособлены к стандартному обслуживанию, потому что тогда не было такого. Использовались материалы как из Эквестрии так и другие.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="20" y="240" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-4" value="Конец эпохи Твайлайт" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="120" width="60" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-5" value="E-1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="120" width="40" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-6" value="&lt;div&gt;&lt;span&gt;Первый экземпляр брони был создан Фолленстар, задолго до Восстания, ещё до обретения формы аликорна. Из-за схожести по идее этот доспех можно отнести к первому поколению, но некоторые могут сказать что это нулевое поколение. Использовались только Эквестрийские материалы и броня была уникальной, без возможности кастромизации, улучшения, массового воспроизведения, лёкого обслуживания и тд.&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="20" y="120" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-7" value="Тонкая плотная одежда из обычной ткани, зачарованой на ограничение магической энергии. Эффективность спорна, чисто эксперементальное решение." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-8" value="Энергетическая сеть, без бронепластин и ускорителей. Это была чисто платформа для ядра и кастеров. Не давала никакого выиграша в силе или скорости. Контуры экстремально открыты." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-9" value="Нижний слой, в основном своего рода одежда одеваемая под броню для защиты от искажающего магического излучения" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-10" value="Основа брони, обычно представляет то, что позволяет остальным системам доспеха функционировать, связывая всё воедино" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="520" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-11" value="Внешная броня - слои бронепластин, закрепляемые поверх основы и обеспечивающие прямую физическую защиту от атак или окружающей среды" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="720" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-12" value="Отсутствует" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-13" value="Слоты для расширения, приспособленые для закрепления сменного оборудования" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-14" value="Отсутствует" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-15" value="Вооружение&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-16" value="Кастеры C-04" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-17" value="Генератор защиты" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-24" value="Источники Энергии" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="920" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-25" value="Энергетическая сеть, проводники, накопители" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-26" value="Две энергоячейки второго класса." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-27" value="Очень слабая, зелёные кристаллы" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-28" value="Интерфейс носителя" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-29" value="Прототипный мысленный интерфейс, расположенный в визоре. Позволет управлять вооружением и энергетическими системами." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-30" value="Информационные системы" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-31" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="120" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-32" value="Спареный, Альфа" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-33" value="Особенности" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-34" value="Прототип" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="120" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-35" value="Краткое описание брони и обстоятельств" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="20" y="40" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-36" value="Первый прототип" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="120" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-38" value="Подтипы" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-39" value="Тип" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="40" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-40" value="Время" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="40" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-43" value="Начало" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="240" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-44" value="Отсутствует, использование продвинутых технологий и материалов свело к минимуму опасные излучения." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-45" value="Восстание" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="320" width="60" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-46" value="Е-2" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="450" width="40" height="870" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-47" value="Развитие Восстания, увеличение численности Упавших Звёзд, необходимость массовости и стандартизации привели к созданию Второго поколения брони. Эти доспехи уже состояли из стандартных частей и могли легко обслуживаться. Массовое производство сменных частей и стандартизация так же позволило развить модульность доспехов. Необходимость производства в Эквестрии при этом не Фолленстар привело к упрощению конструкции и использованию только Эквестрийских материалов в этом поколении. Последние столкновения показали необходимость в большей защищённости, чем разрушительной способности. Из-за времени применения это поколение в последствии стало известно как Броня Восстания." style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="400" width="2400" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-48" value="Мощные ускорители, энергетическая сеть, пазы для съёмных бронепластин, места для несменных улучшений, уникальных для каждого экземпляра. Встроення система контроля внутренней среды обеспечивает идеальные условия для носителя." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="240" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-49" value="Зачарованый антимагический металл и гасители ударов под креплениями пластин. Кристаллические рассеиватели излишней энергии. Аблативные пластины, поверх основной брони." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="240" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-50" value="Магическое ядро и резервные энергоячейки третьего класса.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-52" value="Выше средней, смесь белых и цветных" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="240" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-53" value="Отсутствуют, все уникальные модули несменные." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-54" value="Продвинутый мысленный интерфейс, дополненная реальность, управление всеми системами доспехов, автоматическое усиление/ускорение движений, дисплей состояния и вспомогательной информации." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-55" value="Средний бортовой вычислительный блок, передатчик средней дальности, сферное подключение, база данных, система предсказания, навигации." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="240" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-56" value="Кастеры С-12, С-13, С-15" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-57" value="Усиленный Бета" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-58" value="Каждый экземаляр сильно отличается в зависимости от того, для кого и для чего они предназначены" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-59" value="A" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="450" width="60" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-60" value="Базовая комплектация, предназначена для универсального применения на поле боя. Предназначена для земных пони, хотя и может носиться другими народами с небольшимим модификациями. Но никаких преимуществ они не получат." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="450" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-61" value="Костюм сщитый из металлической, магически инертной ткани. В этот слой добавлены сенсоры, регуляторы температуры, влажности и тд." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="450" width="160" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-62" value="Ускорители, энергетическая сеть, пазы для съёмных бронепластин, места для несменных улучшений. Упрощённые системы жизнеобеспечения, интерфейсы которых вынесены на нижний слой." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="450" width="200" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-63" value="Зачарованый антимагический металл в пластинах и гасители ударов. Реактивные и термические пластины." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="450" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-64" value="Шесть энергоячеек второго класса" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="450" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-66" value="Слабая, цветные" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="450" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-67" value="Отсутствуют, все уникальные модули несменные." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="450" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-68" value="Мысленный интерфейс, дополненная реальность, управление всеми системами доспехов, автоматическое усиление/ускорение движений, дисплей состояния и вспомогательной информации." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="450" width="160" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-69" value="Бортовой вычислительный блок, передатчик ниже средней дальности, сферное подключение, система навигации." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="450" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-70" value="Кастеры С-12, С-22, С-23" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="450" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-71" value="Гамма" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="450" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-72" value="Самая распространённая среди боевых звёзд, была разработана первой и все остальные модификации этой." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="450" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-73" value="B" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="600" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-74" value="Первая модификация, по сути просто замена боевых систем на пространственные манипулятор. Строительство ранних станций и поселений Звёзд, возведение сети врат требовало некую инеженерную модификацию. В - это ответ недавно созданого исследовательского отдела на нужны строителей.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="600" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-75" value="Гасители инерции и ударов" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="600" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-76" value="Четыре энергоячейки второго класса" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="600" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-77" value="Очень слабая, зелёные" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="600" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-79" value="Первые прототипы для съёмных дополнительных креплений грузов разных видов. Сменные манипуляторы и дополнительные энергоячейки." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="600" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-80" value="Помимо верхнего, расширенная системя дополненной реальности и вычисления, позволяющие конструировать структуры на ходу." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="600" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-81" value="Отсутствует" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="600" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-82" value="Альфа, защита от окружающей среды" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="600" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-83" value="Оказавшаяся самой массовой, хоть и не была первой. Массовость имеется ввиду если учитывать гражданскую Вс." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="600" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-84" value="Вс" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="700" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-85" value="Инженерные проекты и распространение брони за пределы боевого отдела привело к большому спросу на экзодоспехи среди не Звёзд, которые оказались на стороне Восстания. Пони быстро поняли преимущества которые давали постоянное подключение к Сфере, защита от окружающей среды и увеличеная сила, что обеспечило разработку первой настоящей гражданской модификации." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="700" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-86" value="Отсутствует, низкие энергетические уровни не предоставляют опасности." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="700" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-87" value="Жизнеобеспечение, ускорители, структура унаследованая от В." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="700" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-89" value="Две энергоячейки второго класса, или шесть первого" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="700" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-90" value="Слоты модификаций унаследованные от В, но сами модификации не стандартизованы и производятся отдальными инженерами под заказ." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="700" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-91" value="Расширенные информационные и сферные возможности." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="700" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-92" value="Отсутствует" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="700" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-93" value="Дёшево и сердито, эта незапланированная модификация действительно сделала экзоброню повсеместной. Именно эту друзья видели на пони в Ванхувере." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="700" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-94" value="С" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="810" width="60" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-95" value="С тип был ответом на нужды специализованых сил в доспехах, которые бы увеличивали их способности. Конкретно С является просто основой для специальных подтипов и не подразумевалась как полноценная серия, но была использована пилотами для интерфейса с их машинами, так же сами исследователи предпочли именно эту платформу за её модифицируемость. Так же новая технология очищения кристаллов позволила значительно повысить энергетические уровни брони." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="810" width="340" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-96" value="Опционален, доспех использует новую систему передачи энергии, которая менее опасна для носителя." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="810" width="160" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-97" value="Энергетическая сеть, жизнеобеспечение вынесено на основу, ускорители." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="810" width="200" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-98" value="Антимагические бронепластины, кристаллические рассеиватели энергии, дополнительные ускорители." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="810" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-99" value="Шесть энергоячеек третьего класса" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="810" width="160" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-100" value="Выше слабой, большая часть системы из очищенных цветных" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="810" width="120" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-101" value="Развитие идеи модульных слотов, здесь они уже более стандартизованы и на С их 4 дополнительных и 2 под вооружение." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="810" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-102" value="Всё выше расширенно голосовым управлением, системой повышения эфекстивности, которая оптимизировала доспех собирая информацию о своей работе, мысленный интерфейс расширен возможностями создавать свои команды и управлять системами на низком уровне." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="810" width="160" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-103" value="Улучшеный вычислительный и запоминающий блок, расчитанные на работу с повышенными уровнями энергии. Встроенный фреймворк для простой интеграции и оптимизации работы модификаций." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="810" width="200" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-104" value="Усиленный Гамма" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="810" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-105" value="Первая попытка действительно модернизировать изначальный дизайн брони" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="810" width="160" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-106" value="Са" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1000" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-107" value="Среди Звёзд было не слишком много пегасов, потому им нужно было мощное снаряжение, позволяющее им на равных противостоять другим воздушным силам. Сама конструкция стандартизована с некоторых оставшихся Е-1 доспехов, предназначеных для летунов.&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1000" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-109" value="2 слота модификации из С занимают кристаллические крылья, обеспечивающие расширенные возможности полёта." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1000" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-110" value="Всё выше дополнено бортовой телеметрией, построителем траекторий и анализатором окружающей среды, который предсказывает полёт противников." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1000" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-112" value="Кастеры С-23" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1000" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-113" value="Гамма" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="1000" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-114" value="Тип предназначеный для использования летунами, во много экспериментальный но всё же показавший себя очень эффективным." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1000" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-115" value="Сb" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1100" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-116" value="Боевые маги могли использовать как дополнительную энергию так и фокусировку, предоставляемую доспехами. Схемы, предоставленные Фолеенстар, позволили создать психическую матрицу и магический конценсатор для этих целей. Первый массовый доспех с использованием сверх ценных белых кристаллов." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1100" width="340" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-117" value="Отдельная и при этом встроенная в основную энергетическую сеть передачи эмоциональной энергии. Предохранители и регуляторы потоков." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1100" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-118" value="Средняя, очищеные цветные и критические фрагменты белые" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-119" value="Отсутствие слотов модификации, поскольку энергетическая система и так перегружена эмоциональным модулем." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1100" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-120" value="Система взаимодействия носителя с магическими контурами. Интерпретатор эмоциональных последовательностей. Психическая матрица." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1100" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-121" value="Возможность записывать эмоциональные фразы и целые заклинания в конденсаторе, а так же формирования таких чисто средствами доспехов." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1100" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-122" value="Отсутствует" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1100" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-123" value="Усиленный Гамма" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="1100" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-124" value="Магическая броня была самым сложным проектом для исследовательского отдела, заставившее снова пересмотреть целиком структуру экзодоспехов и метод их работы." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1100" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-125" value="Ас" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1200" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-126" value="Продвижение технологий доспехов в С серии позволили провести огромное количество модернезаций в базовый боевой А дизайн. Этот тип доспехов не сколько производился, а скорее это была схема модификации устаревших доспехов до новых стандартов." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1200" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-127" value="Извеситные носители" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-128" value="Фолленстар" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-129" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="240" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-130" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="450" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-131" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="600" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-132" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="700" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-133" value="Хайл (пилот), Астерия Велла (исследователь)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="810" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-134" value="Утренний Порыв (боевой), Радуга Даш" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1000" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-135" value="Сверхновая, Сайлент (маги)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1100" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-136" value="Эту систему удалось устранить только в новых доспехах, модернезированые всё ещё требовали устаревший нижний слой." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-137" value="Энергетическая сеть модернезирована до приблизительно 80% возможностей С типа, всё остальное идентично А." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-138" value="Улучшеная энергетическая сеть смогла поддерживать помимо обычного ещё дополнительные успорители, но рассеиватели всё ещё не совместимы." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-139" value="Четыре энергоячейки третьего класса" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-140" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Выше слабой, большая часть системы из очищенных цветных&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-141" value="Отсутствуют, старые модификации не совместимы с новыми стандартизоваными слотами." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-142" value="Расширено до уровня С" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-143" value="Встренный в визор модуль виртуальной среды, позволяющей мыслями и на лету управлять различными каналами связями и низкими системами брони. Расширена дальность работы сферного передатчика." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1200" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-144" value="Кастеры С-22, С-23" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-145" value="Усиленный Гамма" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-146" value="Значительное улучшение стандартных боевых доспехов, тем не менее было провальными и показало необходимость в разработке совершенно нового поколения брони, без недостатков старого." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1200" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-147" value="Стелла Младшая, Фейтхр, Звонкая Нота (боевые), Аплджек" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-148" value="Е-3" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="1360" width="40" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-149" value="Итеративное развитие экзодоспехов мало того что привело к большому разнообразию вариаций и ниш, так и смогло чётко определить требования которые выдвигались перед системами. Так же иформация, собранная во время реального применения доспехов позволило значительно улучшить базовый дизайн и функционал систем. Третее поколение получило начало разработки с появлением Е-2С типа, но получило свой финал только незадолго до начала Катаклизма. Первые типы вышли из тестирования и сразу попали в активное использование, спасая жизни многим пони в условиях новой Эквестрии. Некоторые модификации были внесены в дизайн специально по просьбе Фолленстар и используя её схемы, как оказалось для того чтобы броня могла функционировать нормально в условиях разрушающейся реальности." style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-80" y="1320" width="2400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-150" value="Катаклизм" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="1650" width="60" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-151" value="А" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1360" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-152" value="Эксперементальная платформа, разработанная как основа для нового поколения. Не выходил за предел исследовательского отдела, но все остальные типы E-3 поколения обладают большинством свойств. Использует технологию сверхочищения кристаллов." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1360" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-153" value="Отсутствует" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1360" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-154" value="Мощные ускорители, продвинутое жизнеобеспечение, энергосеть, стабилизаторы простанства, энергоотводы, стабилизаторы." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1360" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-155" value="Бронепластины с гасителями, стабилизаторы, дополнительные ускорители." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1360" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-156" value="Шесть энергоячеек третьего класса" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1360" width="160" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-157" value="Средняя, все системы из сверхочищеных цветных" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1360" width="120" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-158" value="4 слота для модификаций, один комбинированый слот под оружие" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-159" value="Все функции предидущего поколения, модульность позволяет изменять интерфейс убирая или добавляя разные функции." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1360" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-160" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Все функции предидущего поколения, увеличина скорость отклика, увеличена многозадачность и анализаторы, сенсоры.&lt;/span&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1360" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-161" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-162" value="Спареный Гамма" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="1360" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-164" value="Первый по настоящему модульный тип, потому последующие это скорее&amp;nbsp; модификации чем настоящие типы." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-166" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-167" value="Аа" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1440" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-168" value="Боевая серия, за основу использована А, и большая часть характеристик идентична этой. Основная характеристика это соответствующего уровная энергетическая сеть." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1440" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-170" value="2 слота под модификации" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1440" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-171" value="Кастеры С-32, С-33" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-172" value="Основной особенностью этого типа - это оптимизация баланса защиты и атаки." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-173" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-174" value="Аb" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1520" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-175" value="Специальная серия для летунов с кристальными крыльями и прочим оборудованием необходимым в воздухе." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1520" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-177" value="Из верхнего меньше бронепластин и больше стабилизаторов." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1520" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-179" value="Помимо верхнего телеметрия, траектории и новая система мысленного панорамного зрения." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-180" value="Специальные анализаторы окружения, сенсоры датчики для проектирования окружающей среды в виртуальное пространство." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1520" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-181" value="Кастеры С-33" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-182" value="Облегчённая броня с повышенным информационным и энергетическим контуром для воздушных сражений." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-183" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-184" value="Аd" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1680" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-185" value="Тяжёлый защитный скафандр, основаный на основной боевой серии но предназначеный для исследования територии не пригодной для обитания пони." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1680" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-186" value="Дополнительно аблативные и термически изолированные пластины." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-187" value="Система жизнеобеспечения усилена до предела, позволяя выжить почти в любых условиях." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-188" value="Дополнительная защитная подкладка, расчитанная на конкретные условия." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-189" value="Ас" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1600" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-190" value="4 слота под модификации" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-191" value="Тяжёлая специальная броня, предназначения для применения на поле боя дополнительного оборудования." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1600" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-192" value="То же что и в А, но возможны дополнительные энергетический контуры." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-193" value="2 слота под модификации" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-194" value="Расширенный мысленный програмный интерфейс и возможность распределять процессы через передатчик большой дальности." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-195" value="Дополнительные вычислители для применения специального оборудования." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-196" value="Кастеры С-31" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1600" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-198" value="Новая доктрина сражений требовала применение технических специалистов, которые носили бы этот тип." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-199" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-201" value="Расширенные сенсорные возможности, позволяющие ориентироваться в самых разных окружающих средах" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1680" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-202" value="Передатчик повышенной дальности и возможность проводить различные анализы окружения." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-203" value="Дельта" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="1680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-204" value="Сервеная Пустошь, Пустотные разломы, дестабилизованый климат - всё это не благоприятно для пони" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5jTyC49jJKsNOE4Yu5OL-205" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-1" value="B" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1760" width="60" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-2" value="Изначально планировался тоже как первопроходец для семейства подтипов, но в отличие от А, получил распространение как замена E-2C. В общем это симейство типов с пониженым уровнем энергии. Применение расширилось до не только исследователей и пилотов, но и серверов, статистов и тп, появившихся с развитием сферы. Этот тип не является таким же унифицированным как А, имея высокую степень модифицируемости. Тем не менее большинство снаряжения с указанными характеристиками относят к этому." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1760" width="340" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-3" value="Специальный слой с дополнительными мысленными интерфейсами, позволяющие распознать не только сознательные идеи но и спонтанные реакции. Это обеспечивает при необходимости почти полное погружение в сферу." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1760" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-4" value="Энергетическая сеть, расчитанная на более низкие уровни энергии, но обладающая большей пропускной способностью." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1760" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-5" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;Средняя, все системы из сверхочищеных цветных&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="1760" width="120" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-6" value="Внешний слой в основном отсутствует." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="1760" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-7" value="Четыре энергоячейки третьего класса" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="1760" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-8" value="4 универсальных слота под модификации и 2 специальных" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1760" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-9" value="Расширенный мысленный интерфейс для полного погружения и так же в общем улучшеный во всех смыслах интерфейс носителя." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1760" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-10" value="Мощные вычислительные и запомнинающие блоки способные вместить целые сознания нескольких пони. Высокоскоростной сферный передатчик. Модуль погружения и распределённого мышления." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1760" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-11" value="Отсутствует, опционально кастеры С-31" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="1760" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-13" value="Отсутствует, опционально можно добавить генератор до Гамма+ уровня" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="1760" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-14" value="Первый шаг в направлении не боевых экзодоспехов в третьем поколении, при этом стал одним из самых популярных типов среди специалистов. Первопроходец в сфере полного погружения сознания, хоть и не все экземпляры типа имеют эту функцию." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1760" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-15" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1760" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-16" value="Ba" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="1930" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-17" value="Инженерный тип предназначеный для строителей, логистов и прочего обслуживающего персонала. Специальные крепления для манипуляторов и оптимизация доспеха вокруг повышения силы, проекции в дополненной реальности и использовании манипуляторов." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="1930" width="340" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-18" value="Отсутствует" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="1930" width="160" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-19" value="Оптимизированные ускорители а так же дополнительная аммортизация и укреплённый экзоскелет" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1930" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-21" value="4 слота, 2 манипулятора" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="1930" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-22" value="Расширенный интерфейс дополненной реальности" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1930" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-23" value="Модуль виртуализации и большая база данных стандартных шаблонов" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="1930" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-25" value="Универсальное решение, которое значительно ускорило инженерные процессы, а так же лёгкость в производстве значиткельно расширело доступность экзоброни." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="1930" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-27" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="1930" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-28" value="Bb" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="2040" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-29" value="Первый настоящий гражданский вид брони. Все функции В упрощены и удешевлены, тем не менее это обеспечивает множество преимуществ для пони." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="2040" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-31" value="Ускорители, энергетическая сеть, простая система жизнеобеспечения." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="2040" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-32" value="Внешние пластины используются не для защиты а скорее для кастомизации и украшения." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="2040" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-33" value="Универсальные слоты как для 4 энергоячеек третьего класса так и для 8 второго." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="2040" width="160" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-35" value="2 слота улучшений" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="2040" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-36" value="Стандартный мысленный интерфейс, дополнительные сенсоры и камеры." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="2040" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-37" value="Ускоренный сферный модуль, большой объём внутренней памяти но упрощённый вычислитель." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="2040" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-38" value="Отсутствует" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="2040" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-39" value="Отсутствует, опционально до Гамма, если стоят энергоячейки третьего класса" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="2040" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-40" value="Удешевление дизайна В, максимальная массовость и первые попытки в &quot;украшения&quot;." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="2040" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-41" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="2040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-42" value="Вс" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="2100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-43" value="Огромный спрос на броню привёл к разработке ещё более удешевлённого варианта. Использование старых технологий и недоступность некоторых функций." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="2100" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-45" value="Так же как и в Вb, но меньше разнообразия возможной кастомизации." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="2100" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-47" value="Использование старой но быстрой технологии очищения" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-48" value="Стандартный мысленный интерфейс и базовые сенсоры." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="2100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-49" value="Обычный модуль сферного подключения, память, базовый вычислитель, слабый передатчик." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1520" y="2100" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-53" value="Отсутствует, опционально до Бета" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1880" y="2100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-54" value="Бютжетная серия, во всех смыслах" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2040" y="2100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-55" value="Отсутствуют" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2200" y="2100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-56" value="Вd" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="2160" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-57" value="Дальнейшее распространение доспехов привело к появлению специального типа для руководителей, аналитиков, менеджеров и тд. Тех, кому не нужны были ни инженерные функции Ва, ни расширенные В." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="20" y="2160" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-58" value="Обычно отсутствуют, могут быть опозновательные знаки" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="2160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ofSGmZIzqlvXkTsk19JK-60" value="Средняя, системы из сверхочищенных цветных" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="2160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
