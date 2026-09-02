@@ -1,6 +1,6 @@
 # Drive's temporary files
 **/.tmp.*
-# No porn for you
-Sexual/
 # Drawio loose files
 **/*.bkp
+# Public shortcut
+public.lnk
