@@ -10,4 +10,4 @@ words: 16
 
 > **Not yet translated.**
 > Source (UK): `К0 Додатки/Колода карт Темряви.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

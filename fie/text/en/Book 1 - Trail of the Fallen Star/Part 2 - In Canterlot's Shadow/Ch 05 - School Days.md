@@ -10,4 +10,4 @@ words: 21
 
 > **Not yet translated.**
 > Source (UK): `К1 Слід павшої Зірки/Ч2 В тіні Кантерлота/Р5 Шкільні дні.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

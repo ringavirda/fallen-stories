@@ -1,8 +1,7 @@
-# Archived files
-archive
 # Drive's temporary files
 **/.tmp.*
 # Drawio loose files
 **/*.bkp
-# Public shortcut
+# Public shortcut and docs
 public.lnk
+docs

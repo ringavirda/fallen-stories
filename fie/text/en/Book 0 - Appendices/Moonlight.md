@@ -10,4 +10,4 @@ words: 14
 
 > **Not yet translated.**
 > Source (UK): `К0 Додатки/Мунлайт.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

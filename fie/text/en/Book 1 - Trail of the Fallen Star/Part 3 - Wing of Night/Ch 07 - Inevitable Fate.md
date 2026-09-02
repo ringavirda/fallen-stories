@@ -10,4 +10,4 @@ words: 20
 
 > **Not yet translated.**
 > Source (UK): `К1 Слід павшої Зірки/Ч3 Крило Ночі/Р7 Неминуча доля.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

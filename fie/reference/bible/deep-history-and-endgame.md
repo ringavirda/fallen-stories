@@ -1,7 +1,7 @@
 ---
 title: Deep History, the Riders & the Planned Endgame
 updated: 2026-07-11
-sources: ideas/Stories/FIE/First-ponies.md, Riders.md, Timeline.md
+sources: fie/reference/notes/First-ponies.md, Riders.md, Timeline.md
 note: These are recent authorial lore notes. They deepen and partly REVISE earlier material — see inconsistencies.md for what they resolve.
 ---
 

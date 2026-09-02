@@ -10,4 +10,4 @@ words: 20
 
 > **Not yet translated.**
 > Source (UK): `К1 Слід павшої Зірки/Ч5 Перший Гріх/Р3 Нова гармонія.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

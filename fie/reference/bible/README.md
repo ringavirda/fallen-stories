@@ -8,7 +8,7 @@ note: Generated analysis. Where documents conflict, see inconsistencies.md — c
 # Friendship is Eternity (FIE / «Дружба — це Вічність») — Story Bible
 
 A reference distilled from the whole corpus: the 365k-word RU manuscript, the complete
-Ukrainian Book 1, every worldbuilding appendix, and the `ideas/` planning notes.
+Ukrainian Book 1, every worldbuilding appendix, and the planning notes in `../notes/`.
 
 > **Status caveat.** This is an *analysis*, not authored canon. Your worldbuilding is
 > mid-revision (two cosmology layers coexist), so treat conflicts as open questions —
@@ -51,21 +51,31 @@ new Time-princess, **Twilight Ash**.
 | [deep-history-and-endgame.md](deep-history-and-endgame.md) | The prehistory (four civilizations), «Смерть»/Death, the Cultivators/Windigos, the **Four Riders**, and the full planned arc through Fragments II–III |
 | [inconsistencies.md](inconsistencies.md) | Canon conflicts to reconcile (several now resolved by the deep-history notes) |
 
-The text scaffold lives in [`../local/`](../local/_index.md).
+The text scaffold lives in [`fie/text/`](../../text/_index.md).
 
 ## Corpus map (the whole repo)
 
-- `fie/local/ru/` — the 7 RU `.docx` originals (main novel + side anthologies + character list).
-- `fie/local/uk/` — UK PDFs rendered from your Google Docs (Book 0 + Book 1).
-- `fie/archive/` — older per-chapter RU drafts, character sheets, an early **screenplay**, the
-  **card-game** cards, and two **drawio timelines** (Fallenstar, Rebellion).
-- `fie/misc/` — worldbuilding `.docx` (`О космологии`, `Tarot`, `Equipment`, `Units and Tactics`)
-  + drawio charts (tech tree, structure, tension map, wargear).
-- `fie/art/` — ~100 art/PSD assets.
-- `ideas/` — an Obsidian vault (separate git repo): `Stories/FIE/` planning notes + a full
-  `Games/FIE Card Game/` design. **This is the author's intent/future-canon layer.**
-- `relics/` — **NOT FIE**: your separate original stories (`Campfire Notes` — a dragon/
-  therianthrope dark-fantasy mythology; `Ellemire` — military SF).
+- `fie/text/ru/source/` — the 7 RU `.docx` originals (main novel + side anthologies +
+  character list); `fie/text/ru/render/` holds their PDFs, and the extracted markdown sits
+  alongside under `Фрагмент 1 - Огонь/` and `Побочные истории/`.
+- `fie/text/uk/` — UK chapters as paired `.md` + `.pdf`, rendered from your Google Docs
+  (Book 0 + Book 1); part-level renders are in `К1 Слід павшої Зірки/render/`.
+- `fie/text/en/` — English mirror of the UK tree, mostly stubs.
+- `fie/reference/bible/` — this analysis.
+- `fie/reference/notes/` — the planning notes (was the `ideas/` Obsidian vault).
+  **This is the author's intent/future-canon layer.**
+- `fie/reference/world/` — authored worldbuilding `.docx`: `О космологии`, `Tarot`,
+  `Equipment`, `Units and Tactics`.
+- `fie/assets/art/` — curated art (`cards/`, `illustrations/`, `logo/`, `tarot/`).
+- `fie/assets/diagrams/` — drawio charts and their exports (tech tree, structure,
+  tension map, wargear, timeline).
+- `fie/game/` — the card game design. `Rules-legacy.md` is the older ruleset, kept because
+  it still holds the only copy of the action/ability definitions.
+- `archive/fie/` — older per-chapter RU drafts, character sheets, an early **screenplay**,
+  and two **drawio timelines** (Fallenstar, Rebellion).
+- `relics/` — **NOT FIE**: your separate original stories, now top-level and live
+  (`campfire-notes/` — a dragon/therianthrope dark-fantasy mythology; `ellemire/` —
+  military SF).
 - `public.lnk` → `G:\My Drive\Stories\Friendship is Eternity` (the live UK Google Drive).
 
 An in-fiction conceit: many documents are framed as **classified dossiers** by the character

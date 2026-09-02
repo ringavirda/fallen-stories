@@ -10,4 +10,4 @@ words: 17
 
 > **Not yet translated.**
 > Source (UK): `К0 Додатки/Ч1 Знання/Р1 Спеціальні нотації.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

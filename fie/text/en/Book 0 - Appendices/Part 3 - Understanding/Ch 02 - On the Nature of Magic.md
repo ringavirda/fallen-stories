@@ -10,4 +10,4 @@ words: 18
 
 > **Not yet translated.**
 > Source (UK): `К0 Додатки/Ч3 Розуміння/Р2 Про природу магії.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

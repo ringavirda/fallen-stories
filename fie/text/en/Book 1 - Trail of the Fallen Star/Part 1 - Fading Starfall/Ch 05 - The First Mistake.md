@@ -10,4 +10,4 @@ words: 20
 
 > **Not yet translated.**
 > Source (UK): `К1 Слід павшої Зірки/Ч1 Зникаючий Зорепад/Р5 Перша помилка.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

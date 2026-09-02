@@ -10,4 +10,4 @@ words: 15
 
 > **Not yet translated.**
 > Source (UK): `К0 Додатки/Тір-ліст принцес.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`

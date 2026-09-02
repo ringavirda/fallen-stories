@@ -1,20 +1,20 @@
 ---
-title: fie/local — Localization Scaffold
+title: fie/text — Localization Scaffold
 updated: 2026-07-11
 ---
 
-# `fie/local` — RU / UK / EN scaffold
+# `fie/text` — RU / UK / EN scaffold
 
 This folder holds the story text of **Friendship is Eternity** in three languages,
 organized so the Russian original and the Ukrainian re-translation can be aligned
-during the migration. See [`../bible/`](../bible/README.md) for the full analysis.
+during the migration. See [`../reference/bible/`](../reference/bible/README.md) for the full analysis.
 
 ## Layout
 
 | Folder | Contents | Granularity | Naming |
 |---|---|---|---|
-| `ru/` | The Russian **original** (source of truth for the plot). `.docx` originals kept at root; extracted markdown split under `Фрагмент 1 - Огонь/` (per **subsection**) and `Побочные истории/` (side works). | Part / subsection | Russian |
-| `uk/` | The Ukrainian **re-translation** (current published canon). One `.md` per **chapter (Розділ)** next to its rendered `.pdf`. Text extracted from the PDF renders — **the Google Doc is canonical**; verify before relying on the `.md`. | Chapter | Ukrainian |
+| `ru/` | The Russian **original** (source of truth for the plot). `.docx` originals in `source/` and their PDF renders in `render/`; extracted markdown split under `Фрагмент 1 - Огонь/` (per **subsection**) and `Побочные истории/` (side works). | Part / subsection | Russian |
+| `uk/` | The Ukrainian **re-translation** (current published canon). One `.md` per **chapter (Розділ)** next to its rendered `.pdf`; part-level renders in `К1 …/render/`. Text extracted from the PDF renders — **the Google Doc is canonical**; verify before relying on the `.md`. | Chapter | Ukrainian |
 | `en/` | English mirror of the UK tree. Mostly `status: todo` stubs; `Ch 0 - Legend of the Princess` is pre-filled from the bilingual note. | Chapter | English |
 
 ## Structure mapping (RU → UK)

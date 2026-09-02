@@ -157,7 +157,7 @@ Protagonist naming across the book: **Fading Starfall / Зникаючий Зо�
 
 ## THE REBELLION — RU «Часть 2–3» (written in RU, NOT yet translated)
 
-> Note: `ideas/Stories/FIE/Fragment I Structure.md` gives an *evolved plan* whose chapter names
+> Note: `fie/reference/notes/Fragment I Structure.md` gives an *evolved plan* whose chapter names
 > differ slightly from the written monolith; below follows the **written manuscript**. Saari and
 > Moonlight-as-Princess-of-Destruction do **not** appear in the written Часть 2–3 — they belong to
 > drafted finale/future material (`Chrysalis encounter.md`, `Princesses' crown.md`).
@@ -218,7 +218,7 @@ Alicorn…" — followed by a bare character-glossary of ~30 names for unwritten
 plan (`Fragment I Structure.md`) renames this arc **«Осколок последнего Огня»** (Ветер Хаоса /
 Лунный Свет / Принцесса Разрушения) + an epilogue "Legend of the Sleeping Alicorn."
 
-## Planned finale (from `ideas/` notes — drafted, ahead of the manuscript)
+## Planned finale (from `fie/reference/notes/` — drafted, ahead of the manuscript)
 Fallenstar abdicates **Destruction to Moonlight Shadow**, forges a soul-bound treaty binding all
 princesses (the `Princesses' crown` scene — Celestia had fallen to her shadow **Daybreaker**), and
 becomes a **Rider** of the new Time-princess **Twilight Ash**. Fragments **II Time** and

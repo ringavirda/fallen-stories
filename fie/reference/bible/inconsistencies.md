@@ -101,5 +101,5 @@ The three are one lineage of the Time-aspect; a glossary note spelling this out 
 ## Minor translation artifacts
 - The UK notation example has a gender mismatch: *«Червона поні **з'явився** з тіней»* (masculine verb with
   "поні") where RU had feminine *«появилась»*. Small typo-level fix.
-- The `fie/local/uk/*.md` text was extracted from **PDF renders** and has occasional word-order hiccups from
+- The `fie/text/uk/*.md` text was extracted from **PDF renders** and has occasional word-order hiccups from
   justified/columned layout — the **Google Doc remains canonical**; verify the `.md` before relying on it.

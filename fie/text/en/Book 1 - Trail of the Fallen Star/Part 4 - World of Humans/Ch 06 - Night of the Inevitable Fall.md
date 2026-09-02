@@ -10,4 +10,4 @@ words: 21
 
 > **Not yet translated.**
 > Source (UK): `К1 Слід павшої Зірки/Ч4 Світ Людей/Р6 Ніч неминучого падіння.pdf`
-> Source (RU): see `fie/local/ru/`
+> Source (RU): see `fie/text/ru/`
